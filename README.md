@@ -12,7 +12,7 @@ At a resolution of 640*640, our method achieves 81.9% AP50 and 47.4% AP on SeaDr
 
 ## Results on Seadronesee object detectionV2:
 
-![fig](images/result.png)
+![fig](images/results.png)
 
 # Quick start
 
