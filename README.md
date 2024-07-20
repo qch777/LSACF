@@ -12,10 +12,16 @@ At a resolution of 640*640, our method achieves 81.9% AP50 and 47.4% AP on SeaDr
 
 ## Results on Seadronesee object detectionV2:
 
-
+![fig](images/result.png)
 
 # Quick start
 
-
 ### Dataset
+After downloading the data from the official website, you need to convert it into yolo structure
+
+
+
+
+
+
 
