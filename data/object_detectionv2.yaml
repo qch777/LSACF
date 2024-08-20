@@ -1,0 +1,8 @@
+train: /media/ubuntu/5385f1e6-0f46-4865-90c2-287b9a0f3c16/qch/yolo/object_detectionv2/path/train.txt
+val: /media/ubuntu/5385f1e6-0f46-4865-90c2-287b9a0f3c16/qch/yolo/object_detectionv2/path/val.txt
+
+# number of classes
+nc: 6
+
+# class names
+names: ["ignored", "swimmer", "boat", "jetski", "life_saving_appliances", "buoy"]

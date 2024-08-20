@@ -1,0 +1,7 @@
+train: /media/ubuntu/5385f1e6-0f46-4865-90c2-287b9a0f3c16/qch/yolo/VisDrone2019/path/train.txt
+val: /media/ubuntu/5385f1e6-0f46-4865-90c2-287b9a0f3c16/qch/yolo/VisDrone2019/path/val.txt
+
+
+# Classes
+nc: 10  # number of classes
+names: ['pedestrian', 'people', 'bicycle', 'car', 'van', 'truck', 'tricycle', 'awning-tricycle', 'bus', 'motor']
